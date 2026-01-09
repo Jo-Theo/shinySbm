@@ -21,7 +21,7 @@ URL: https://shinysbm-theodore-vanrenterghem-b12616c23cfbfb3f0fe520178bcb95a.pag
 BugReports: https://github.com/Jo-Theo/shinySbm/issues
 License: MIT + file LICENSE
 Depends: 
-  R (>= 3.50),
+  R (>= 3.5.0),
   sbm
 Imports: 
     colourpicker,
